@@ -1,0 +1,5 @@
+=== Mémoire transactionnelle logicielle
+
+ * Implémentation en java de l'algorithme TL2
+ * Adaptation avec les threads pool
+ * Adapatation avec les dictionnaires Wait free
